@@ -1,3 +1,3 @@
-# ner repo 
+# New repo 
 
-Thi s is very go place to work.
+This is very go place to work.
