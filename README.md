@@ -1,4 +1,4 @@
-# New repo 
+# New  feature
 
-This is very go place to work.
+Adding some minute tools
 Adding new feature here.
