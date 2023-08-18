@@ -1,4 +1,4 @@
 # New  feature
 
 Adding some minute tools
-Adding new feature here.
+Adding new feature here for elaboration.
